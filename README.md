@@ -4,7 +4,7 @@
 Profesional con una mentalidad analítica forjada en más de 30 años de contacto directo con el hardware y el software. Especializado en resolución de problemas lógicos complejos y recientemente certificado en ciberseguridad.
 
 ### 🎓 Certificaciones y Formación:
-- **Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/5H6Q5FYT8ETP)-
+- **[Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/5H6Q5FYT8ETP)** (Completado en 2026) 🎓
 - **Candidato a CompTIA+** (En preparación técnica activa) 📚 
 - **Especialista en Arquitectura de Hardware:** Reparación a nivel de componentes (microinformática, tablets, placas base)
 
