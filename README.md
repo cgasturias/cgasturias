@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hola, soy Carlos González Bello 👋 
 
-<!--
-**cgasturias/cgasturias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛡️ Especialista en Ciberseguridad & Soporte Técnico
+Profesional con una mentalidad analítica forjada en más de 30 años de contacto directo con el hardware y el software. Especializado en resolución de problemas lógicos complejos y recientemente certificado en ciberseguridad.
 
-Here are some ideas to get you started:
+### 🎓 Certificaciones y Formación:
+- **Google Cybersecurity Professional Certificate** (Completado en 2026) 🎓 
+- **Candidato a CompTIA+** (En preparación técnica activa) 📚 
+- **Especialista en Arquitectura de Hardware:** Reparación a nivel de componentes (microinformática, tablets, placas base)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Mi Perfil Técnico:
+- **Ciberseguridad:** Análisis de riesgos, criptografía aplicada (PGP/GPG) y auditoría de seguridad
+- **Sistemas Operativos:** Administración técnica avanzada en **Linux**, Windows, macOS e iOS
+- **Soporte y Forense:** Diagnóstico y sustitución de componentes físicos (chips, memorias, puertos USB) y edición hexadecimal
+- **Lógica de Redes:** Conocimientos profundos de conectividad y protocolos
+
+### 💻 Proyectos Destacados:
+- [Implementación de Mensajería Cifrada PGP](https://github.com/cgasturias/practica-criptografia-pgp): Configuración de comunicación E2EE entre macOS M1 y Android.
+- **Soporte IT en Entornos Operativos:** 15 años resolviendo incidencias críticas de sistemas y conectividad en entornos de logística real
+
+---
+### 🤝 Conectemos:
+- **Ubicación:** Oviedo, Asturias 📍 
+- **Habilidades Blandas:** Adaptabilidad extrema, lealtad institucional y resolución creativa de problemas
+
+Donde otros ven un fallo del sistema, yo veo un puzzle lógico esperando ser resuelto.
+¡Gracias por visitar mi perfil! Siempre estoy dispuesto a aprender y colaborar en proyectos de seguridad.
