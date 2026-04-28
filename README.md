@@ -16,7 +16,8 @@ Profesional con una mentalidad analítica forjada en más de 30 años de contact
 
 ### 💻 Proyectos Destacados:
 - **[Auditoría de Red y Análisis de Tráfico DNS/IP](https://github.com/cgasturias/Network-Security-Audit):** Reconocimiento activo y pasivo sobre entornos reales utilizando **Wireshark** y **Nmap**. Implementación de capas de privacidad mediante VPN y análisis de protocolos modernos (IPv6).
-- [Implementación de Mensajería Cifrada PGP](https://github.com/cgasturias/practica-criptografia-pgp): Configuración de comunicación E2EE entre macOS M1 y Android.
+- **[Implementación de Mensajería Cifrada PGP](https://github.com/cgasturias/practica-criptografia-pgp): Configuración de comunicación E2EE entre macOS M1 y Android.
+- **[Laboratorio de Integridad con Hashes](https://github.com/cgasturias/Cryptography-Hashes-Lab):** Práctica de verificación de datos multiplataforma (SHA-256) en entorno de laboratorio dual (Ubuntu/Windows 11).
 - **Soporte IT en Entornos Operativos:** 15 años resolviendo incidencias críticas de sistemas y conectividad en entornos de logística real
 
 ---
