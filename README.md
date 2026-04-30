@@ -25,5 +25,8 @@ Profesional con una mentalidad analítica forjada en más de 30 años de contact
 - **Ubicación:** Oviedo, Asturias 📍 
 - **Habilidades Blandas:** Adaptabilidad extrema, lealtad institucional y resolución creativa de problemas
 
-Donde otros ven un fallo del sistema, yo veo un puzzle lógico esperando ser resuelto.
+  ## 📩 Contacto
+Si tienes alguna duda sobre este laboratorio o quieres conectar conmigo:
+- **Email:** : cgasturias29@gmail.com
+- Donde otros ven un fallo del sistema, yo veo un puzzle lógico esperando ser resuelto.
 ¡Gracias por visitar mi perfil! Siempre estoy dispuesto a aprender y colaborar en proyectos de seguridad.
